@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\bin\Debug\AP_SelectionSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\bin\Debug\AP_SelectionSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\bin\Debug\AP_SelectionSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\obj\Debug\AP_SelectionSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\obj\Debug\AP_SelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\obj\Debug\AP_SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\obj\Debug\AP_SelectionSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SelectionSort\AP_SelectionSort\obj\Debug\AP_SelectionSort.pdb
